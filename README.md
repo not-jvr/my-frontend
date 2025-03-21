@@ -13,7 +13,7 @@ La página principal es un **home simple con botones** que redireccionan a los d
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## 📂 Estructura del proyecto
-Todos los proyectos están dentro de la carpeta **`/(pages)`**, nombrados de manera secuencial según el orden en que los voy creando /(pages)/01/page.tsx, /(pages)/02/page.tsx, /(pages)/03/page.tsx, etc...
+Todos los proyectos están dentro de la carpeta **`(pages)`**, nombrados de manera secuencial según el orden en que los voy creando.
 Cada botón en el home redirige a uno de estos archivos, donde encontrarás los diseños recreados.
 
 ## 🚀 Instalación y ejecución
