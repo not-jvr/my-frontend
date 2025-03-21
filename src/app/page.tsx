@@ -7,6 +7,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold mb-4">Hello World</h1>
         <ButtonRedirect name="n°1" path="/01" />
         <ButtonRedirect name="n°2" path="/02" />
+        <ButtonRedirect name="n°3" path="/03" />
       </div>
     </div>
   );
