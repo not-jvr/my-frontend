@@ -13,6 +13,10 @@ export default function Home() {
         <ButtonRedirect name="n°6" path="/06" />
         <ButtonRedirect name="n°7" path="/07" />
         <ButtonRedirect name="n°8" path="/08" />
+        <ButtonRedirect name="n°9" path="/09" />
+        <ButtonRedirect name="n°10" path="/10" />
+        <ButtonRedirect name="n°11" path="/11" />
+        <ButtonRedirect name="n°12" path="/12" />
       </div>
     </div>
   );
